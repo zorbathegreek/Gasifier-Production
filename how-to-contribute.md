@@ -4,7 +4,7 @@ title: How to Contribute
 ---
 ### How to contribute to our gasifier production videos
 
-We use Shotcut for video editing. It is available for Linux, Windows, and Apple <a href="https://shotcut.org">here</a>. 
+This website is an extension of "The Carbon Shifters" website (link coming soon). We have decided to keep this part of our efforts separate to prevent confusion about the purpose of both parts of the same medal. We use Shotcut for video editing. It is available for Linux, Windows, and Apple <a href="https://shotcut.org">here</a>. 
 The available footage and Shotcut project files (file extension: .mlt) can be downloaded [here](/assets/). You must store the footage and the .mlt file in the same folder.
 
 Once you have the footage, and the project file, you can edit away on your machine if you have any improvements, and make a pull request for your new project file (.mlt).
