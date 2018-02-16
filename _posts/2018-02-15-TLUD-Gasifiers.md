@@ -3,7 +3,6 @@ layout: post
 title: TLUD Gasifiers
 ---
 
-### TLUD gasifiers
 There are many different types of gasifiers. We are focussing on the TLUD type.  
 TLUD stands for top lit up-draft, and it basically just means that you set your fuel in the gasifier on fire at the top, all over the surface.
 We mostly use wood chips for fuel (or biomass pellets), and after a couple of moments, the first black spots appear; 
