@@ -6,7 +6,7 @@ title: How to Contribute ...
 
 This website is an extension of "The Carbon Shifters" website (link coming soon). We have decided to keep this part of our efforts separate to prevent confusion. If you have watched our movies and want to improve them, translate the subtitles and/or the voice-overs, or contribute your own video, here is how you can do that. Welcome on board!  
 
-We use Shotcut for video editing. It is available for Linux, Windows, and Apple <a href="https://shotcut.org">here</a>. 
+We use Shotcut for video editing. It is available for Linux, Windows, and OSX <a href="https://shotcut.org">here</a>. 
 The available footage and Shotcut project files (file extension: .mlt) are found [here](https://github.com/zorbathegreek/Gasifier-Production/tree/master/assets/footage
 ). 
 
