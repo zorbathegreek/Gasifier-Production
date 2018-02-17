@@ -5,7 +5,7 @@ author: Anthony Simm
 description: A site where you can contribute to our gasifier production videos 
 twitter_username: 
 github_username: zorbathegreek
-baseurl: "/Gasifier-Production"
+baseurl: "/Gasifier-Production/"
 
 # Build settings
 markdown: kramdown
