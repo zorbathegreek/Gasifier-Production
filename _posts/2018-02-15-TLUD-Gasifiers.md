@@ -17,4 +17,5 @@ The air that keeps this conversion process alive enters the gasifier at the lowe
 
 Trucks and cars have been operated on wood gas, in areas and times of limited petroleum supply, but those gasifiers have a different design. 
 
+All pictures above are screenshots from here: https://www.youtube.com/watch?v=m2Cjt7AiZJY
 
