@@ -18,5 +18,5 @@ This website contains videos that show you how to make your own gasifier, e.g. t
 </form>
 <br>
 <hr>
-
+   
 These gasifiers produce charcoal while you cook your food. The char can and should be used in agriculture as Terra Preta, in order to reduce the CO2 concentration of the atmosphere. Please check the posts below for more details. 
