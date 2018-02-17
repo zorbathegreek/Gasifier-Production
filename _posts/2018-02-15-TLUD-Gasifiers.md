@@ -6,7 +6,7 @@ title: TLUD Gasifiers
 There are many different types of gasifiers. We are focussing on the TLUD type. It produces gas for cooking and charcoal. 
 TLUD stands for top lit up-draft, and it basically just means that you set your fuel in the gasifier on fire at the top, all over the surface.
 We mostly use wood chips for fuel (or biomass pellets), and after a couple of moments, the first black spots appear;  
-![image1](/assets/images/image1.png)  
+![image1]({{ site.baseurl }}/assets/images/image1.png)  
 every piece of fuel then ignites its' neighbour below, and soon the surface is all black from the forming charcoal. 
 So in the beginning, you just have one flame, above the fuel. But the zone between wood and charcoal (the black material above the wood chips), a flaming disk shaped area called pyrolysis zone, slowly travels downwards; 
 ![image2](../assets/images/image2.png/)
