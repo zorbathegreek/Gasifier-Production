@@ -10,7 +10,7 @@ We use Shotcut for video editing. It is available for Linux, Windows, and OSX <a
 The available footage and Shotcut project files (file extension: .mlt) are found [here](https://github.com/zorbathegreek/Gasifier-Production/tree/master/assets/footage
 ). 
 
-Once you have the footage, and the project file, you can edit away on your machine, save your work, and make a pull request for your new project file (.mlt). You must store the footage and the .mlt file in the same folder.
+Once you have the footage, and the project file, you can edit away on your machine, save your work, and make a pull request for your new project file (.mlt). Please!! store the footage and the .mlt file in the same folder when editing! 
 
 ### Why not upload your exported video? 
 There is a quota of 1 GB per Github repo, and we don't want to exceed that, because the workaround is complicated. 
