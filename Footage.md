@@ -4,6 +4,8 @@ title: Footage
 ---
 The below linked footage was used to create the following videos:
 
+(master video coming soon; the video we have was edited with proprietary software, and we are busy redoing it) 
+
 *
 *
 *
