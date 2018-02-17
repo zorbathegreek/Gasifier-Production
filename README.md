@@ -8,7 +8,7 @@ This website contains videos that show you how to make your own gasifier, e.g. t
 
     Your name: <input type="text" name="name"><br>
     
-    You are interested in: <input type="text" name="item"><br>
+    You are interested in: <input type="text" name="interested_in"><br>
     
     Your email address: <input type="email" name="replyto"><br>
     <br>
