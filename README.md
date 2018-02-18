@@ -23,4 +23,4 @@ Just fill in this contact form and we'll get back to you asap.
 </form>
 <hr>
 <br>   
-These gasifiers produce charcoal while you cook your food. The char can and should be used in agriculture as [Terra Preta](https://en.wikipedia.org/wiki/Terra_preta), in order to reduce the CO2 concentration of the atmosphere. [More details here](https://www.biochar.info/biochar.terra-preta.cfml) or check the posts below.
+These gasifiers produce charcoal while you cook your food. The char can and should be used in agriculture as [Terra Preta](https://en.wikipedia.org/wiki/Terra_preta) as a carbon sink, in order to reduce the CO2 concentration of the atmosphere. [More details here](https://www.biochar.info/biochar.terra-preta.cfml) or check the posts below.
