@@ -1,6 +1,6 @@
 # Gasifier production
 
-This website contains videos that show you how to make your own gasifier, e.g. to cook your meals. Please [contribute to our videos](https://zorbathegreek.github.io/Gasifier-Production/how-to-contribute.html) if you can. We trained groups of women, and would be happy to teach you how to do that, too.  
+This website contains videos that show you how to make your own gasifier, e.g. to cook your meals. A video about fuel drier fabrication is coming soon. Please [contribute to our videos](https://zorbathegreek.github.io/Gasifier-Production/how-to-contribute.html) if you can. We trained groups of women, and would be happy to teach you how to do that, too.  
 
 ![Bjumba_gasifier]({{ site.baseurl }}/assets/images/Vergaser_Bjumba_compressed.JPG) 
 
