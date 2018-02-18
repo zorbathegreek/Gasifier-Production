@@ -2,15 +2,18 @@
 layout: post
 title: Footage
 ---
-The below linked footage was used to create the following videos:
+The following videos were produced using below linked footage:
+ 
+* Video 1 (link missing)
+* Video 2 (link missing)
 
-(master video coming soon; the video we have was edited with proprietary software, and we are busy redoing it) 
+(master videos coming soon; the videos that we have were edited with proprietary software, and we are busy redoing them) 
 
 *
 *
 *
 
-Footage: 
+You don't need to look at the below footage unless you want to edit above videos: 
 
 [MAH08945.MP4.webm](https://github.com/zorbathegreek/Gasifier-Production/blob/master/assets/footage/MAH08945.MP4.webm)
 
